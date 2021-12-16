@@ -1,7 +1,7 @@
 # SpringbootMongoMSBackend
 Backend Springboot MongoDB CRUD PQRS Maven MS
 
-Run the following commands to execute the project in your machine:
+Run the following commands to execute this project in your machine:
 
 $mvn install
 
